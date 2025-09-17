@@ -1,5 +1,11 @@
 ## Hi there 👋
+Welcome to my GitHub Profile. Thanks for checking out. If you are wondering, I am a Sydney-based university graduate engineer who loves writing code for mobile and web.
 
+I'm currently working on a cross-platform mobile application, which is a street parking finder app that combines the power of sensors and microcontrollers. I am making a prototype version, now for the proof of concept. Once I get approval, we will get approval from the council to implement it in the actual streets and display it in the comfort of our mobile device. 
+
+I'm currently learning Python. I would love to get to know it a bit more and implement cool things with it, like I do with other languages.
+
+I'm open to collaborating on any interesting project ideas that I can contribute to, or would love any position relevant to my skills. 
 <!--
 **bishLam/bishLam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
